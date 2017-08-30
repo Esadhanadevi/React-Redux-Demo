@@ -1,0 +1,24 @@
+
+{
+  "listItems" : [{
+              "id" : "1",
+              "name" : "Raj",
+              "contact": "99404174041",
+              "place": "Chennai1"
+            },{
+              "id" : "2",
+              "name" : "Raj1",
+              "contact": "99404170541",
+              "place": "Chennai2"
+            },{
+              "id" : "3",
+              "name" : "Raj2",
+              "contact": "99404170461",
+              "place": "Chennai3"
+            },{
+              "id" : "4",
+              "name" : "Raj3",
+              "contact": "99404170471",
+              "place": "Chennai4"
+            }]
+}
